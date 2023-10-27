@@ -1,0 +1,38 @@
+- company: MVP
+  brands:
+    - brand: Axiom
+    - brand: Streamline
+- company: Lone Star
+  brands:
+    - brand: Sacred
+    - brand: Hooligan
+- company: Gateway
+  brands:
+    - brand: Above Ground Level
+    - brand: Black Zombie
+- company: Innova
+- company: Discraft
+- company: House of Discs
+  brands:
+    - brand: Latitude 64
+    - brand: Kastaplast
+    - brand: Discmania
+    - brand: Westside
+    - brand: Dynamic Discs
+- company: Prodigy
+- company: Mint
+  manufacturer: MVP
+- company: Thought Space Athletics
+  manufacturer: MVP
+- company: Wild Discs
+  manufacturer: MVP
+- company: Jester
+  manufacturer: MVP
+- company: DGA
+  manufacturer: Discraft
+- company: Millenium
+  manufacturer: Innova
+  brands:
+    - brand: Hyzerbomb
+- company: Infinite
+  manufacturer: Innova
