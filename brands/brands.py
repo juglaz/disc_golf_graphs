@@ -42,7 +42,7 @@ def generate_brands_graph():
                     G.add_edge(brand['manufacturer'], company_name)
         
         if 'manufacturer' in company:
-            G.add_edge(company['manufacturer'], company_name, style='dotted', color='red', penwidth=1)
+            G.add_edge(company['manufacturer'], company_name, style='dotted', color='red', penwidth=3)
 
     # Set graph attributes
     G.graph_attr['label'] = 'Disc Manufacturers and Brands'

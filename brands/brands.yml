@@ -2,6 +2,7 @@
   brands:
     - brand: Axiom
     - brand: Streamline
+    - brand: Remix
 - company: Lone Star
   brands:
     - brand: Sacred
@@ -35,4 +36,6 @@
   brands:
     - brand: Hyzerbomb
 - company: Infinite
+  manufacturer: Innova
+- company: Hero
   manufacturer: Innova
