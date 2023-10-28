@@ -9,7 +9,6 @@
     - brand: Hooligan
 - company: Gateway
   brands:
-    - brand: Above Ground Level
     - brand: Black Zombie
 - company: Innova
 - company: Discraft
@@ -40,3 +39,5 @@
 - company: Hero
   manufacturer: Innova
 - company: Yikun
+- company: Above Ground Level
+  manufacturer: Gateway
